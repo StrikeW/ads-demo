@@ -1,3 +1,5 @@
 # ADS-Diary
 
-This is a demo of ads week 5.
+This is a demo for ADS Lec.5 Concurrency Control
+PSI v.s SI
+
